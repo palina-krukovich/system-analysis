@@ -4,7 +4,7 @@
 
 #### Вариант 2
 
-[image lab 3-4]()
+[image lab 3-4](https://github.com/polina-krukovich/system-analysis/blob/master/images/lab34.png)
 
 ### Лфбораторная работа №5-6
 
