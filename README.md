@@ -6,7 +6,7 @@
 
 ![image lab 3-4](https://github.com/polina-krukovich/system-analysis/blob/master/images/lab34.png)
 
-### Лфбораторная работа №5-6
+### Лaбораторная работа №5-6
 
 #### Вариант 35
 
